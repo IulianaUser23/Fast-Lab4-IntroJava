@@ -1,7 +1,7 @@
 /**
  * Created by User on 24.03.2017.
  */
-// se citesc 2 numere - sa se afiseze cel mai mare
+// se citesc 2 numere - sa se afiseze cel mai mare;
 public class Exercitiu4 {
     public static void main(String[] args) {
         int a;
