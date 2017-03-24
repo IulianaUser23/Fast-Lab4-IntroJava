@@ -4,10 +4,11 @@
 public class exercitiu2 {
     public static void main(String[] args) {
         int numar;
-        numar=SkeletonJava.readIntGUI("introduceti un numar:");
+        numar = SkeletonJava.readIntGUI("introduceti un numar:");
 
-        for(int i=o; i<=0; i++) {
-            System.out.println(i+"x"+numar+"="+);}
+        for (int i = 0; i <= 0; i++) {
+            System.out.println(i + "X" + numar + "=" + i * numar);
 
+        }
     }
 }
