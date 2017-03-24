@@ -1,5 +1,5 @@
 /**
- * Created by User on 24.03.2017.
+ * Created by Iuliana on 24.03.2017.
  */
 // se citesc 2 numere - sa se afiseze cel mai mare;
 public class Exercitiu4 {
